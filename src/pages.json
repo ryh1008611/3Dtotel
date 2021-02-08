@@ -1,0 +1,45 @@
+{
+	"pages": [ 
+		{
+			"path": "pages/home/index",
+			"style": {
+				"navigationBarTitleText": "AnHo-你的3D酒店"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "white",
+		"navigationBarTitleText": "AnHo-你的3D酒店",
+		"navigationBarBackgroundColor": "#000",
+		"backgroundColor": "#000"
+	},
+	"tabBar": {
+		"color": "#8a8a8a",
+		"selectedColor": "#d4237a",
+		"backgroundColor": "#fff",
+		"position": "bottom",
+		"borderStyle": "black",
+		"list": [
+			{
+				"pagePath": "pages/home/index",
+				"text": "首页"
+			},
+			{
+				"pagePath": "pages/home/index",
+				"text": "消息"
+			},
+			{
+				"pagePath": "pages/home/index",
+				"text": "附近"
+			},
+			{
+				"pagePath": "pages/home/index",
+				"text": "圈子"
+			},
+			{
+				"pagePath": "pages/home/index",
+				"text": "我的"
+			}
+		]
+	}
+}
